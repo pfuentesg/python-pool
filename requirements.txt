@@ -1,1 +1,15 @@
 django==2.1.2
+whitenoise==4.1
+django_heroku==0.3.1
+gunicorn==19.9.0
+chardet==3.0.4     
+dj-database-url==0.5.0     
+heroku==0.1.4     
+idna==2.7       
+psycopg2==2.7.5     
+python-dateutil==1.5       
+pytz==2018.5    
+requests==2.20.0    
+setuptools==40.4.3    
+urllib3==1.24      
+wheel==0.32.1    
